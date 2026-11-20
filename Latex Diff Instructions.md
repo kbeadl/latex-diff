@@ -1,7 +1,7 @@
 # STEP 1
 
-Download [https://www.tug.org/mactex/](https://www.tug.org/mactex/mactex-download.html)
-Download https://www.texstudio.org
+- Download [https://www.tug.org/mactex/](https://www.tug.org/mactex/mactex-download.html)
+- Download https://www.texstudio.org
 
 # STEP 2
 
