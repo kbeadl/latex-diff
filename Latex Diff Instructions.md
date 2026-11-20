@@ -25,12 +25,12 @@ Create 2 folders:
 
 # STEP 5
 
-Comment out Mark's word count command from the old and new main.tex
+- Comment out Mark's word count command from the old and new main.tex
 
 # STEP 6
 
-Compile original main.tex in TeXstudio
-Compile revised main.tex in TeXstudio
+- Compile original main.tex in TeXstudio
+- Compile revised main.tex in TeXstudio
 
 # STEP 7
 
